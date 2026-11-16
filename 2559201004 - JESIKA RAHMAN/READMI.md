@@ -52,7 +52,7 @@ Website KARA SCOOPS memiliki empat halaman utama, yaitu:
 
 ## 5. Sumber Gambar
 
-Gambar yang digunakan pada website KARA SCOOPS berasal dari: https://dribbble.com/shots/27017071-Cr-me-Pop-Cake-Menu-UI-Clean-Colourful-Product-Cards
+Gambar yang digunakan pada website KARA SCOOPS berasal dari: Pinterest & Meta AI
 
 ## 6. Kendala dan Cara Mengatasinya
 
