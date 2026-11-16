@@ -1,4 +1,3 @@
-
 # KARA SCOOPS
 ### Delicious Scoops, Happier Moments.
 
